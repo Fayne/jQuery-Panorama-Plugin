@@ -1,2 +1,2 @@
-# jQuery-Panorama-Plugin
+# jQuery Panorama Plugin
 This is jQuery panorama plugin.
